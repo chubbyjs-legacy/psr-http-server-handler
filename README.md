@@ -14,7 +14,7 @@ Common interface for HTTP server-side request handler ([PHP FIG][2] [PSR-15][3])
 Through [NPM](https://www.npmjs.com) as [@chubbyjs/psr-http-server-handler][1].
 
 ```sh
-npm i @chubbyjs/psr-http-server-handler@1.1.0
+npm i @chubbyjs/psr-http-server-handler@1.1.1
 ```
 
 ## Copyright
